@@ -13,7 +13,7 @@ The image is divided into blocks of 8x8 pixels overlapping each other. In a 64x6
 2. DCT is robust to brightness. In simple language, if you take a matrix and add a particular value to all the pixels equally. Later the DCT produced to the original and the forged matrix remains the same. 
 Therefore, if there is an image in which a part of it is copied, added brightness (1 particular value, or a range of similar values) and then moved to an other part of the same image, CMFD using DCT can reveal the copy moved regions.
 
-However, applying DCT is not the best possible solution. Do look out for the other documentations I have uploaded in my account, they are kind of advanced CMFD procedures, I have tried my best to explain them in simple and understandable language. CMFD has a lot of scope to improve over the future.
+However, applying DCT is not the best possible solution. Do look out for the other documentations I have uploaded in my account, they are kind of advanced CMFD procedures, but I have tried my best to explain them in simple and understandable language. CMFD has a lot of scope to improve over the future.
 
 Also Note, 
 The code attached is mine, but the pdf attached isn't. It is a wonderfully documented pdf that I found online, and hence have uploaded it for further reference.
